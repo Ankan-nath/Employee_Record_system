@@ -4,7 +4,7 @@
 #include<stdlib.h>   //For exit function.
 #include<string.h>   //For string functions.
 #include<windows.h>  //For windows function like system etc.(not so important.)
-#include<conio.h>    //For standard I/O system.
+#include<conio.h>    //For standard I/O system and getch().
 
 //Prototype of the functions used in the code.
 void gotoxy(int,int);
